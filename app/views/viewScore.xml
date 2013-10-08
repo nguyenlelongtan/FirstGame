@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container">
+		<TableView id="tableScore">
+            <TableViewSection id="sectionScore" headerTitle="Top 10"/>
+        </TableView>	
+	</Window>
+</Alloy>

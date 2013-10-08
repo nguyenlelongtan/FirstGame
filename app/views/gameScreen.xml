@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container">
+		<ImageView width="350" height="250" top="150" image="/img/quest.jpg"></ImageView>
+		<Label id="lbQuest" width="auto" height="auto" top="400" color="red"></Label>
+		<Label id="lbTime" right="10" top="10" color="red"></Label>
+	</Window>
+</Alloy>

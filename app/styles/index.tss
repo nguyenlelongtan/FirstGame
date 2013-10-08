@@ -1,0 +1,24 @@
+".container": {
+	backgroundColor:"white"
+},
+".lbWelcome": {
+	font:{fontSize:50},
+	height:"auto",
+	width:"auto",
+	top:10
+},
+".imgTroll":{
+	top:300,
+	height:300,
+	width:300
+},
+".btnStart":{
+	height:"auto",
+	width:200,
+	top:100,
+	borderStyle:Titanium.UI.INPUT_BORDERSTYLE_ROUNDED
+},
+".btnViewScore":{
+	bottom:10,
+	right:10
+}

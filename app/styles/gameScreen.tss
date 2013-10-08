@@ -1,0 +1,10 @@
+
+".container" : {
+	backgroundColor:"#fff"  
+},
+"#lbQuest":{
+	font:{fontSize:50}
+},
+"#lbTime":{
+	font:{fontSize:50}
+}

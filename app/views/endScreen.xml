@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="container">
+		<Label top="50">Thanks</Label>
+		<Label id="lbScore" top="150" />
+		<ImageView id="imgDance" top="300" width="250" height="150"></ImageView>
+		<Button id="btnViewScore" bottom="10" right="10" onClick="viewScore">View Score</Button>
+	</Window>
+</Alloy>

@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="container">
+		<Label class="lbWelcome">Welcome to BiHallow Game</Label>
+		<ImageView class="imgTroll" image="/img/troll1.jpg"></ImageView>
+		<Button class="btnStart" onClick="startGame">Start Game</Button>
+		<Button class="btnViewScore" onClick="viewScore">View Score</Button>
+	</Window>
+</Alloy>
